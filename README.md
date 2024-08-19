@@ -20,8 +20,8 @@ This Python script allows users to search through a directory for image and vide
 Clone this repository and ensure you have Python 3 installed on your system.
 
 ```bash
-git clone https://github.com/yourusername/photo-video-extractor.git
-cd photo-video-extractor
+git clone https://github.com/m-sadkowski/Photo-Video---Copy-from-phone.git
+cd Photo-Video---Copy-from-phone
 ```
 
 ## Usage
@@ -31,7 +31,7 @@ cd photo-video-extractor
    Execute the script using Python:
 
    ```bash
-   python photo_video_extractor.py
+   python main.py
    ```
 
 2. **Select Folders:**
